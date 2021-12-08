@@ -7,7 +7,7 @@ public class MainController {
         controller.go();
     }
 
-    private void go() {
+    protected void go() {
         // This program must read all its input from files.
         // There will be multiple files in the testing directory that the program must read.
         // Each file will be named with the .txt extension.
